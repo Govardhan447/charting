@@ -1,0 +1,20 @@
+dependencies:
+  date-time: 4.0.0
+lockfileVersion: 5.2
+packages:
+  /date-time/4.0.0:
+    dependencies:
+      time-zone: 2.0.0
+    dev: false
+    engines:
+      node: '>=12'
+    resolution:
+      integrity: sha512-I53Xcn8FBobcKFcNUfZUSE6O3HeRdp1IOLWyHkipi5S07sEZbTwP+xTrPp5Ch6q6iyFkC06B14+bm96FrdfIEA==
+  /time-zone/2.0.0:
+    dev: false
+    engines:
+      node: '>=12'
+    resolution:
+      integrity: sha512-2cp/YLRm7ly33CzvySyXqo/QEOu4KMn6fCof0gpqosWY3PEJUJJhXP/Cb2wXFUuCzWWJYEmPvdHNzjLlfXC49A==
+specifiers:
+  date-time: ^4.0.0
